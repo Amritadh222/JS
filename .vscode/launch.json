@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
